@@ -1,12 +1,12 @@
 # Chat_App
-An app made using firebase, having all the modern-day chat app features including - 
-->User Profiles
-->Read - Delivered notifiers
-->Notifications
-->Online - Offline Status of Users
-->Edit User Display Picture Options.
+An app made using firebase, having all the modern-day chat app features including - <br>
+->User Profiles<br>
+->Read - Delivered notifiers<br>
+->Notifications<br>
+->Online - Offline Status of Users<br>
+->Edit User Display Picture Options.<br>
 
-Screenshots -
+Screenshots -<br>
 
 <img src = "https://user-images.githubusercontent.com/65773548/112542871-13888380-8ddb-11eb-9cb3-0599f3831795.png" width = "400" height = "690">
 
